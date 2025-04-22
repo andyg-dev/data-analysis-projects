@@ -53,7 +53,6 @@ The goal of this project is to create an interactive dashboard that provides ins
 
 ## Files Included
 
-- **Sales Data File**: Contains sample data for sales transactions, products, customers, and territories.
 - **power_bi_sales_project.pbix**: The Power BI file that contains all data transformations, models, DAX measures, and visuals.
 - **Screenshots**: Images of visuals in the dashboard, some DAX functions, star schema, and other relevant Power BI skills. 
 
