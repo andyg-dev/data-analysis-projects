@@ -27,7 +27,8 @@ This repository showcases my **Excel Data Analysis Project** where I performed d
 - **Data Analysis** (Sales Analysis, KPIs, Trend Analysis)
 
 ## Files in this Repository:
-- "sales_data.xlsx"
+- "excel_analysis_project.xlsx"
+- "excel_dashboard.jpg"
 
 ## Project Objective:
 The purpose of this project was to clean raw sales data and analyze it using Excel's core features. I aimed to produce actionable insights through the creation of dashboards and KPIs, while also demonstrating my ability to clean messy data and present findings in a visually appealing and accessible format.
