@@ -85,8 +85,6 @@ The goal of these projects is to demonstrate my ability to analyze and visualize
 
 Feel free to reach out if you have any questions or feedback!
 
-- LinkedIn: [www.linkedin.com/in/andytgreen]
-
 ---
 
 Thank you for checking out my data analysis portfolio!
