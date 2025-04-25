@@ -1,3 +1,9 @@
+Personal Project: Sales Data Analysis with Python
+Project Overview:
+
+In this project, I demonstrated my ability to analyze sales data using Python, focusing on the entire data analysis process—starting from loading and cleaning the data to performing grouped analysis and creating visualizations to present key insights.
+
+
 Step 1: Loading and Understanding Your Data
 The first step in any data analysis project is loading and understanding the data. Using the pandas library, I loaded a sales dataset and performed initial inspections to check the data structure and identify any issues.
 
