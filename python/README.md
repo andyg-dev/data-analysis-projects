@@ -14,6 +14,8 @@ The first step in any data analysis project is loading and understanding the dat
 import pandas as pd
 ```
 
+
+
 ### Load the dataset into a pandas DataFrame
 
 Using Sales 2019 data for Adventure Works with the file name 'Sales 2019 and later.txt' which is tab-separated
@@ -23,61 +25,76 @@ df = pd.read_csv('Sales 2019 and later.txt', sep='\t')
 ```
 
 ### Display the first 5 rows
+```python
 print(df.head())
+```
 
 ### Get information about columns, data types, and non-null values
+```python
 print(df.info())
+```
 
 Why it matters: Understanding the data structure helps identify issues like missing values or incorrect data types early on.
 
 ## Step 2: Cleaning and Preparing the Data
 Data often needs cleaning and transformation before analysis. In this step, I converted the OrderDate to datetime and created a new column, Total Price, to analyze the total sales value.
 
-Code Example:
-
 ### Convert 'OrderDate' to datetime
+```python
 df['OrderDate'] = pd.to_datetime(df['OrderDate'])
+```
 
 ### Create 'Total Price' by multiplying 'Order Quantity' and 'Unit Price'
+```python
 df['Total Price'] = df['Order Quantity'] * df['Unit Price']
+```
 
 Why it matters: Correcting data types (e.g., dates) and creating new features (e.g., Total Price) makes the dataset more useful for analysis.
 
 ## Step 3: Summarizing and Exploring Data
 I generated summary statistics for numerical columns and checked for missing values to identify any data gaps that might affect analysis.
 
-Code Example:
-
 ### Get summary statistics for numerical columns
+```python
 print(df.describe())
+```
+
 
 ### Check for missing values
+```python
 print(df.isnull().sum())
+```
 
 Why it matters: Summary statistics and missing values help to quickly assess the dataset's integrity and determine further steps.
 
 ## Step 4: Analyzing Data by Groups
 I grouped the data by Sales Territory Region to calculate total sales for each region, allowing for regional comparisons.
 
-Code Example:
-
 ### Group data by 'Sales Territory Region' and calculate total sales per region
+```python
 region_sales = df.groupby('Sales Territory Region')['Total Price'].sum().reset_index()
+```
+
 
 ### Display total sales by region
+```python
 print(region_sales)
+```
+
 
 Why it matters: Grouping data enables you to analyze performance across different segments, which is valuable for strategic decision-making.
 
 ## Step 5: Visualizing Your Findings
 Finally, I created a bar chart to visualize total sales by region. Visualizations help convey insights more clearly and effectively.
 
-Code Example:
-
+```python
 import matplotlib.pyplot as plt
 import seaborn as sns
+```
 
 ### Create bar chart to visualize total sales by region
+
+```python
 plt.figure(figsize=(10, 6))
 sns.barplot(x='Sales Territory Region', y='Total Price', data=region_sales)
 plt.title('Total Sales by Sales Territory Region')
@@ -86,6 +103,8 @@ plt.ylabel('Total Sales')
 plt.xticks(rotation=45)
 plt.tight_layout()
 plt.show()
+```
+
 
 Why it matters: Visualizations make complex data more accessible and highlight trends that are not immediately obvious from raw numbers.
 
