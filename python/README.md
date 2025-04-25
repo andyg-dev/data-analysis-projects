@@ -11,7 +11,7 @@ The first step in any data analysis project is loading and understanding the dat
 **Code Example:**
 
 ```python
-import pandas as pd
+import pandas as pd```
 
 # Load the dataset into a pandas DataFrame
 # Using Sales 2019 data for Adventure Works with the file name 'Sales 2019 and later.txt' which is tab-separated
