@@ -2,12 +2,14 @@
 ## Overview
 This project focuses on analyzing productivity trends using detailed time-tracked data collected over 18 days in 2023. The data is recorded in small time blocks, as small as 5 minutes, and the project aimed to clean, categorize, and visualize this data to provide actionable insights into productivity.
 
+
 ## Technologies Used
-### Python (Pandas): For data cleaning, transformation, and activity categorization.
+### **Python (Pandas)**: For data cleaning, transformation, and activity categorization.
 
-### Excel (Power Query): For data transformation and cleanup before importing into Python.
+### **Excel (Power Query)**: For data transformation and cleanup before importing into Python.
 
-### Power BI: For creating interactive reports and dashboards to visualize productivity trends.
+### **Power BI**: For creating interactive reports and dashboards to visualize productivity trends.
+
 
 ## Project Details
 ### Data Cleaning:
