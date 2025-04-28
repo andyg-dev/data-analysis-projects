@@ -9,7 +9,7 @@ As a data analyst, I embarked on a project to analyze global population trends u
 ## 🔧 Key Skills Demonstrated
 
 1. **Data Blending**  
-   I combined multiple data sources to create a unified dataset, enabling comprehensive analysis of population metrics across different regions.
+   I combined multiple data sources to create a unified dataset, enabling comprehensive analysis of population metrics across different continents.
 
    ![Blended Data Example](https://raw.githubusercontent.com/andyg-dev/data-analysis-projects/main/looker_studio/blend_join_data.jpg)
 
@@ -18,27 +18,20 @@ As a data analyst, I embarked on a project to analyze global population trends u
 
    ![Arranged and Grouped Charts](https://raw.githubusercontent.com/andyg-dev/data-analysis-projects/main/looker_studio/arrange_group_isolatecharts.jpg)
 
-3. **Isolating Components**  
-   For focused analysis, I isolated specific charts, allowing for detailed examination without distractions.
+3. **Simple Population Chart with Control**  
+   I implemented interactive controls to allow users to filter and explore population data dynamically.
 
-   ![Isolated Charts](https://raw.githubusercontent.com/andyg-dev/data-analysis-projects/main/looker_studio/arrange_group_isolatecharts.jpg)
+   ![Population Chart with Control](https://raw.githubusercontent.com/andyg-dev/data-analysis-projects/main/looker_studio/simple_pop_chart_with_control.jpg)
 
 4. **Final Project Dashboard**  
    The culmination of my work is a comprehensive dashboard that provides an interactive and insightful view of global population data.
 
    ![Final Dashboard](https://raw.githubusercontent.com/andyg-dev/data-analysis-projects/main/looker_studio/final_project.jpg)
-
-5. **Simple Population Chart with Control**  
-   I implemented interactive controls to allow users to filter and explore population data dynamically.
-
-   ![Population Chart with Control](https://raw.githubusercontent.com/andyg-dev/data-analysis-projects/main/looker_studio/simple_pop_chart_with_control.jpg)
-
 ---
 
 ## 📈 Project Highlights
 
 - **Interactive Controls**: Users can filter data by region and time period, providing a customized viewing experience.
-- **Dynamic Visualizations**: Charts update in real-time based on user selections, offering immediate insights.
 - **User-Centric Design**: The dashboard is designed with the end-user in mind, ensuring ease of use and accessibility.
 
 ---
