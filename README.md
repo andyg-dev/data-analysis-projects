@@ -10,7 +10,7 @@ Welcome to my **Data Analysis Projects Portfolio**! This repository contains a c
 - [Combined Excel Python Power BI Projects](#excel_python_powerbi)
 - [Looker Projects](#looker_studio)
 
-## SQL Projects
+## sql Folder
 
 In this folder, you'll find a series of SQL queries and operations I’ve implemented to analyze and manipulate data using relational databases.
 
@@ -30,7 +30,7 @@ In this folder, you'll find a series of SQL queries and operations I’ve implem
 
 ---
 
-## Excel Projects
+## excel Folder
 
 This folder contains data analysis projects using **Excel**, where I applied a range of techniques including data cleaning, pivot tables, and dashboards.
 
@@ -49,7 +49,7 @@ This folder contains data analysis projects using **Excel**, where I applied a r
 
 ---
 
-## Power BI Projects
+## Power BI Folder
 
 This folder features Power BI projects where I created interactive dashboards, data models, and visualizations to analyze business performance.
 
@@ -67,7 +67,8 @@ This folder features Power BI projects where I created interactive dashboards, d
 
 ---
 
-## Web Scraping Quotes from "Quotes to Scrape" using Python
+## jupyter_webscraping_api_database folder
+### Web Scraping Quotes from "Quotes to Scrape" using Python
 
 This project demonstrates web scraping techniques using Python. The goal is to scrape quotes, authors, and associated tags from the website "Quotes to Scrape" using BeautifulSoup and Requests. The script retrieves the HTML content from the webpage, parses the quotes, authors, and tags, and then stores and prints them in a structured format.
 
@@ -95,28 +96,21 @@ In this project, I developed a Python-based solution to interact with the Iowa L
 
 - Automates data extraction and cleaning, exporting cleaned data to a CSV file for analysis.
 
-### Combined Excel, Python, Power BI Project
+## excel_python_powerbi Folder
 
 This project analyzes productivity trends based on time-tracked data collected over 18 days in 2023. The data is recorded in small time blocks, and the goal is to clean, categorize, and visualize this data for actionable insights.
 
-## Technologies Used
+### Technologies Used
 - **Python (Pandas)**: For data cleaning, transformation, and categorization.
 - **Excel (Power Query)**: For initial data transformation and cleanup.
 - **Power BI**: For creating interactive reports and dashboards.
 
-## Key Features
+### Key Features
 - **Data Cleaning**: Cleaned 1,000 rows of data, standardized date-time formats, and depersonalized sensitive information.
 - **Activity Categorization**: Used Python scripts to categorize activities based on keywords and merged the results with the dataset.
 - **Power BI Dashboard**: Created bar charts and line graphs to track productivity trends, with custom measures and interactive filters.
 
-## Installation & Setup
-1. Clone or download the repository.
-2. Install Python and Power BI Desktop.
-3. Place the raw data (`productivity_tracker_2023.xlsx`) in the project directory.
-4. Run the Python script to clean and categorize the data.
-5. Open the Power BI file (`Productivity_Trend_Report.pbix`) and link it to the cleaned data.
-
-## Conclusion
+### Conclusion
 This project integrates Python and Power BI to provide insightful visualizations of productivity trends, helping to optimize tracking and resource allocation.
 
 ## Project Objective
