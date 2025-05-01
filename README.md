@@ -7,9 +7,9 @@ Welcome to my **Data Analysis Projects Portfolio**! This repository contains a c
 - [SQL Project](#sql-project)
 - [Excel Project](#excel-project)
 - [Power BI Project](#power-bi-project)
-- [Combined Excel Python Power BI Project](#Combined_Excel_Python_PowerBI_Project)
-- [Jupyter Webscraping API Database Projects](#Jupyter_Webscraping_API_Database_Projects)
-- [Looker Projects](#looker_studio)
+- [Combined Excel Python Power BI Project](#combined-excel-python-power-bi-project)
+- [Jupyter Webscraping API Database Projects](#Jupyter-Webscraping-API-Database-Projects)
+- [Looker Studio Project](#looker-studio)
 
 ## SQL Project
 
@@ -67,37 +67,6 @@ This folder features Power BI projects where I created interactive dashboards, d
 [Check out the Power BI folder here](./powerbi/)
 
 ---
-
-## Jupyter Webscraping API Database Projects 
-
-### Web Scraping Quotes from "Quotes to Scrape" using Python
-
-This project demonstrates web scraping techniques using Python. The goal is to scrape quotes, authors, and associated tags from the website "Quotes to Scrape" using BeautifulSoup and Requests. The script retrieves the HTML content from the webpage, parses the quotes, authors, and tags, and then stores and prints them in a structured format.
-
-### Key Features Demonstrated:
-
-- Python (Requests, BeautifulSoup)
-- Scrapes quotes, authors, and tags from the website.
-- Uses requests to fetch the webpage content.
-- Parses the HTML using BeautifulSoup to extract relevant data.
-- Displays the data in a clean, readable format.
-
-### Iowa Liquor Sales Data API Project
-
-In this project, I developed a Python-based solution to interact with the Iowa Liquor Sales Data API, enabling the extraction, cleaning, and analysis of large datasets. The goal was to extract and process alcohol sales data and prepare it for business intelligence analysis.
-
-### Key Features Demonstrated:
-
-- Python (Requests, Pandas)
-
-- Jupyter Notebooks
-
-- API integration for extracting real-time liquor sales data from the Iowa Liquor Sales API.
-
-- Data cleaning using Pandas, handling missing values and formatting key metrics.
-
-- Automates data extraction and cleaning, exporting cleaned data to a CSV file for analysis.
-
 ## Combined Excel Python PowerBI Project
 
 This project analyzes productivity trends based on time-tracked data collected over 18 days in 2023. The data is recorded in small time blocks, and the goal is to clean, categorize, and visualize this data for actionable insights.
@@ -118,6 +87,39 @@ This project integrates Python and Power BI to provide insightful visualizations
 ## Project Objective
 
 The goal of these projects is to demonstrate my ability to analyze and visualize data using various tools and techniques. Through these projects, I have gained experience in transforming raw data into actionable insights, building reports, and making data-driven decisions.
+
+---
+
+## Jupyter Webscraping API Database Projects 
+
+### Web Scraping Quotes from "Quotes to Scrape" using Python
+
+This project demonstrates web scraping techniques using Python. The goal is to scrape quotes, authors, and associated tags from the website "Quotes to Scrape" using BeautifulSoup and Requests. The script retrieves the HTML content from the webpage, parses the quotes, authors, and tags, and then stores and prints them in a structured format.
+
+#### Key Features Demonstrated:
+
+- Python (Requests, BeautifulSoup)
+- Scrapes quotes, authors, and tags from the website.
+- Uses requests to fetch the webpage content.
+- Parses the HTML using BeautifulSoup to extract relevant data.
+- Displays the data in a clean, readable format.
+
+### Iowa Liquor Sales Data API Project
+
+In this project, I developed a Python-based solution to interact with the Iowa Liquor Sales Data API, enabling the extraction, cleaning, and analysis of large datasets. The goal was to extract and process alcohol sales data and prepare it for business intelligence analysis.
+
+#### Key Features Demonstrated:
+
+- Python (Requests, Pandas)
+
+- Jupyter Notebooks
+
+- API integration for extracting real-time liquor sales data from the Iowa Liquor Sales API.
+
+- Data cleaning using Pandas, handling missing values and formatting key metrics.
+
+- Automates data extraction and cleaning, exporting cleaned data to a CSV file for analysis.
+
 
 ---
 
