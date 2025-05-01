@@ -7,7 +7,7 @@ Welcome to my **Data Analysis Projects Portfolio**! This repository contains a c
 - [SQL Project](#sql-project)
 - [Excel Project](#excel-project)
 - [Power BI Project](#power-bi-project)
-- [Combined Excel Python Power BI Project](#combined-excel-python-power-bi-project)
+- [Combined Excel Python Power BI Project](#combined-excel-python-powerbi-project)
 - [Jupyter Webscraping API Database Projects](#Jupyter-Webscraping-API-Database-Projects)
 - [Looker Studio Project](#looker-studio)
 
