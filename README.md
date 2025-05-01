@@ -4,13 +4,14 @@ Welcome to my **Data Analysis Projects Portfolio**! This repository contains a c
 
 ## Table of Contents
 
-- [SQL Projects](#sql-projects)
-- [Excel Projects](#excel-projects)
-- [Power BI Projects](#power-bi-projects)
-- [Combined Excel Python Power BI Projects](#excel_python_powerbi)
+- [SQL Project](#sql-project)
+- [Excel Project](#excel-project)
+- [Power BI Project](#power-bi-project)
+- [Combined Excel Python Power BI Project](#combined_excel_python_powerbi_project)
+- [Jupyter Webscraping API Database Projects](#Jupyter_Webscraping_API_Database_Projects)
 - [Looker Projects](#looker_studio)
 
-## sql Folder
+## SQL Project
 
 In this folder, you'll find a series of SQL queries and operations I’ve implemented to analyze and manipulate data using relational databases.
 
@@ -30,7 +31,7 @@ In this folder, you'll find a series of SQL queries and operations I’ve implem
 
 ---
 
-## excel Folder
+## Excel Project
 
 This folder contains data analysis projects using **Excel**, where I applied a range of techniques including data cleaning, pivot tables, and dashboards.
 
@@ -49,7 +50,7 @@ This folder contains data analysis projects using **Excel**, where I applied a r
 
 ---
 
-## Power BI Folder
+## Power BI Project
 
 This folder features Power BI projects where I created interactive dashboards, data models, and visualizations to analyze business performance.
 
@@ -67,7 +68,8 @@ This folder features Power BI projects where I created interactive dashboards, d
 
 ---
 
-## jupyter_webscraping_api_database folder
+## Jupyter Webscraping API Database Projects 
+
 ### Web Scraping Quotes from "Quotes to Scrape" using Python
 
 This project demonstrates web scraping techniques using Python. The goal is to scrape quotes, authors, and associated tags from the website "Quotes to Scrape" using BeautifulSoup and Requests. The script retrieves the HTML content from the webpage, parses the quotes, authors, and tags, and then stores and prints them in a structured format.
@@ -96,7 +98,7 @@ In this project, I developed a Python-based solution to interact with the Iowa L
 
 - Automates data extraction and cleaning, exporting cleaned data to a CSV file for analysis.
 
-## excel_python_powerbi Folder
+## Combined Excel Python PowerBI Project
 
 This project analyzes productivity trends based on time-tracked data collected over 18 days in 2023. The data is recorded in small time blocks, and the goal is to clean, categorize, and visualize this data for actionable insights.
 
