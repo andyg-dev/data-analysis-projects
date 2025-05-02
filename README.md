@@ -19,7 +19,7 @@ In this folder, you'll find a series of SQL queries and operations I’ve implem
 - **SELECT**: Retrieving data from tables
 - **JOIN**: Combining data from multiple tables
 - **GROUP BY & HAVING**: Aggregating and filtering data
-- **CASE/IF/WHERE**: Conditional statements
+- **CASE/WHERE**: Conditional statements
 - **INSERT/UPDATE/DELETE**: Modifying data in the database
 - **Subqueries**: Using nested queries for complex analysis
 - **Window Functions**: Advanced analysis on a dataset
