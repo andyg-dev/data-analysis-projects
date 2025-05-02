@@ -7,17 +7,16 @@ Welcome to my **SQL Queries Portfolio**! This repository contains examples of va
 2. **FROM**: Specify the table to retrieve data from.
 3. **HAVING**: Filter results after performing aggregation (e.g., `GROUP BY`).
 4. **CASE**: Creates conditonal outputs within a SELECT query.
-5. **IF**: SQL IF statements work in procedures or scripts to control flow
-6. **WHERE**: Used to  filter records.
-7. **ADD**: Inserting new data into a table (`INSERT`).
-8. **UPDATE**: Modifying existing data in a table.
-9. **DELETE**: Removing data from a table.
-10. **ORDER BY**: Sorting query results based on one or more columns.
-11. **LIMIT**: Limiting the number of rows returned in a query.
-12. **JOIN**: Combining rows from two or more tables based on a related column.
-13. **GROUP BY**: Grouping rows that have the same values into summary rows.
-14. **AVG**: Calculating the average of a numeric column.
-15. **SUBQUERY**: Using a query within another query.
+5. **WHERE**: Used to  filter records.
+6. **ADD**: Inserting new data into a table (`INSERT`).
+7. **UPDATE**: Modifying existing data in a table.
+8. **DELETE**: Removing data from a table.
+9. **ORDER BY**: Sorting query results based on one or more columns.
+10. **LIMIT**: Limiting the number of rows returned in a query.
+11. **JOIN**: Combining rows from two or more tables based on a related column.
+12. **GROUP BY**: Grouping rows that have the same values into summary rows.
+13. **AVG**: Calculating the average of a numeric column.
+14. **SUBQUERY**: Using a query within another query.
 
 ## Files Included
 
