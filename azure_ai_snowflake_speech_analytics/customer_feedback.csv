@@ -1,0 +1,6 @@
+CustomerID,Feedback,Timestamp,AgentID
+001,"Great service, very helpful!",2025-05-06T10:05:00,101
+002,"The wait was too long, not happy.",2025-05-06T10:15:00,102
+003,"Good experience overall, would recommend.",2025-05-06T10:20:00,101
+004,"I had trouble with the product, not satisfied.",2025-05-06T10:30:00,103
+005,"The service was excellent, very fast.",2025-05-06T10:35:00,101
