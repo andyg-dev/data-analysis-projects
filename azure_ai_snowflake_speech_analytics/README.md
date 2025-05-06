@@ -20,3 +20,5 @@ Snowflake for data warehousing and analytics
 Python (Pandas) for scripting and uploading to Azure Blob Storage
 
 SQL for database/table/view creation and reporting
+
+![Sentiment Analysis Results](https://github.com/andyg-dev/data-analysis-projects/blob/main/azure_ai_snowflake_speech_analytics/snowflake_sql_sentiment_analysis_results.jpg?raw=true)
