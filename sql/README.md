@@ -1,5 +1,5 @@
 # Overview
-This README showcases my skills and experience in data analysis, with a focus on using SQL to clean, analyze, and optimize business processes. Below are several key tasks I have performed, showcasing my ability to provide actionable insights, improve decision-making, and optimize business strategies. These tasks span data cleaning, customer segmentation, sales performance analysis, and more, using SQL to extract and manipulate data from a database effectively.
+This project showcases my skills and experience in data analysis, with a focus on using SQL to clean, analyze, and optimize business processes. Below are several key tasks I have performed, showcasing my ability to provide actionable insights, improve decision-making, and optimize business strategies. These tasks span data cleaning, customer segmentation, sales performance analysis, and more, using SQL to extract and manipulate data from a database effectively.
 
 # Skills Highlighted:
 ## SQL Queries:
@@ -20,7 +20,7 @@ This README showcases my skills and experience in data analysis, with a focus on
 
 ## Advanced Techniques:
 
-P- roficient in CTEs and WINDOW FUNCTIONS for modular and trend-based analysis.
+- Proficient in CTEs and WINDOW FUNCTIONS for modular and trend-based analysis.
 
 ## Performance Optimization:
 
@@ -29,6 +29,7 @@ P- roficient in CTEs and WINDOW FUNCTIONS for modular and trend-based analysis.
 ## Data Integrity:
 
 - Expertise in identifying and handling duplicate records using GROUP BY and HAVING.
+
 
 # Key SQL Queries & Business Insights
 ## 1. Understanding the Database Structure
