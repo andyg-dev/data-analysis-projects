@@ -1,14 +1,30 @@
 # Azure + Snowflake ETL & Sentiment Analysis Pipeline
 This project demonstrates a full end-to-end data pipeline using Python, Azure, and Snowflake, focusing on extracting customer feedback and applying AI-powered sentiment analysis to drive insights into agent performance.
 
-## 🔧 Features
-Extracts structured customer feedback data and cleans it using Python.
+## Pipeline Diagram
 
-Performs sentiment analysis using Azure AI Language service.
+<pre> ``` +------------------+ +---------------------+ +-----------------------+ | | | | | | | Customer | | Azure Blob Storage | | Snowflake | | Feedback +------->| (Staging Area) +------->| (Data Warehouse) | | Data Sources | | | | | | | | | | | +------------------+ +---------------------+ +-----------------------+ | | | | | | v v v +------------------+ +---------------------+ +-----------------------+ | | | | | | | Python Script | | Azure AI Language | | Snowflake Views | | (Data Cleaning | | (Sentiment | | (Agent Sentiment | | & Upload) | | Analysis) | | Performance Metrics) | | | | | | | +------------------+ +---------------------+ +-----------------------+ ``` </pre>
 
-Uploads processed data to Azure Blob Storage and loads it into Snowflake via a staging area.
+## Pipeline Overview
+Data Extraction & Cleaning:
 
-Creates a Snowflake view to summarize agent sentiment performance metrics (positive/negative/neutral).
+- Structured customer feedback data is extracted from various sources.
+
+- A Python script cleans and preprocesses this data.
+
+- The cleaned data is uploaded to Azure Blob Storage.
+
+Sentiment Analysis:
+
+- Azure AI Language service analyzes the sentiment of the feedback (positive, negative, neutral).
+
+- Data Loading into Snowflake:
+
+- The processed data is staged in Azure Blob Storage.
+
+- Using Azure Data Factory, data is loaded into Snowflake.
+
+- A Snowflake view is created to summarize agent sentiment performance metrics.
 
 ## 🛠️ Technologies
 Azure Blob Storage for cloud data storage
