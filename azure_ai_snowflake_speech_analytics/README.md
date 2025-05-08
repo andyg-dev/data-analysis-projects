@@ -27,14 +27,14 @@ Sentiment Analysis:
 - A Snowflake view is created to summarize agent sentiment performance metrics.
 
 ## 🛠️ Technologies
-Azure Blob Storage for cloud data storage
+- Azure Blob Storage for cloud data storage
 
-Azure AI Language for sentiment analysis
+- Azure AI Language for sentiment analysis
 
-Snowflake for data warehousing and analytics
+- Snowflake for data warehousing and analytics
 
-Python (Pandas) for scripting and uploading to Azure Blob Storage
+- Python (Pandas) for scripting and uploading to Azure Blob Storage
 
-SQL for database/table/view creation and reporting
+- SQL for database/table/view creation and reporting
 
 ![Sentiment Analysis Results](https://github.com/andyg-dev/data-analysis-projects/blob/main/azure_ai_snowflake_speech_analytics/snowflake_sql_sentiment_analysis_results.jpg?raw=true)
