@@ -3,7 +3,7 @@ This project demonstrates a full end-to-end data pipeline using Python, Azure, a
 
 ## Pipeline Diagram
 
-<pre> ``` +------------------+ +---------------------+ +-----------------------+ | | | | | | | Customer | | Azure Blob Storage | | Snowflake | | Feedback +------->| (Staging Area) +------->| (Data Warehouse) | | Data Sources | | | | | | | | | | | +------------------+ +---------------------+ +-----------------------+ | | | | | | v v v +------------------+ +---------------------+ +-----------------------+ | | | | | | | Python Script | | Azure AI Language | | Snowflake Views | | (Data Cleaning | | (Sentiment | | (Agent Sentiment | | & Upload) | | Analysis) | | Performance Metrics) | | | | | | | +------------------+ +---------------------+ +-----------------------+ ``` </pre>
+![Pipeline Diagram](https://github.com/andyg-dev/data-analysis-projects/blob/main/azure_ai_snowflake_speech_analytics/pipeline_diagram.jpg?raw=true)
 
 ## Pipeline Overview
 Data Extraction & Cleaning:
