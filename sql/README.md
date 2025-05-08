@@ -28,8 +28,9 @@ This project showcases my skills and experience in data analysis, with a focus o
 
 ## Data Integrity:
 
-- Expertise in identifying and handling duplicate records using GROUP BY and HAVING.  
+- Expertise in identifying and handling duplicate records using GROUP BY and HAVING.
 
+  
 
 # Key SQL Queries & Business Insights
 ## 1. Understanding the Database Structure
