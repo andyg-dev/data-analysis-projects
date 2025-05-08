@@ -22,7 +22,7 @@ Sentiment Analysis:
 
 - The processed data is staged in Azure Blob Storage.
 
-- Using Azure Data Factory, data is loaded into Snowflake.
+- Integrate Snowflake with Azure Blob Storage to load data into Snowflake
 
 - A Snowflake view is created to summarize agent sentiment performance metrics.
 
