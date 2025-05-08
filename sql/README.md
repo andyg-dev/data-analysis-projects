@@ -1,41 +1,43 @@
-# **SQL Query Operations Portfolio**
+# SQL Queries Portfolio
 
-Welcome to my **SQL Queries Portfolio**! This repository contains examples of various SQL operations I've learned and practiced. Each query demonstrates a different SQL technique, such as filtering, aggregating, and manipulating data, as well as joining multiple tables.
+## Overview
+This portfolio demonstrates my ability to perform various SQL operations using the **WSDA_Music.db** dataset. It includes examples of my work with:
+- Data retrieval
+- Filtering and aggregation
+- Joining tables
+- Data transformations
+- Performance optimizations
 
-### **SQL Operations Included:**
-1. **SELECT**: Retrieve data from a database.
-2. **FROM**: Specify the table to retrieve data from.
-3. **HAVING**: Filter results after performing aggregation (e.g., `GROUP BY`).
-4. **CASE**: Creates conditonal outputs within a SELECT query.
-5. **WHERE**: Used to  filter records.
-6. **ADD**: Inserting new data into a table (`INSERT`).
-7. **UPDATE**: Modifying existing data in a table.
-8. **DELETE**: Removing data from a table.
-9. **ORDER BY**: Sorting query results based on one or more columns.
-10. **LIMIT**: Limiting the number of rows returned in a query.
-11. **JOIN**: Combining rows from two or more tables based on a related column.
-12. **GROUP BY**: Grouping rows that have the same values into summary rows.
-13. **AVG**: Calculating the average of a numeric column.
-14. **SUBQUERY**: Using a query within another query.
+## Skills Demonstrated
+Here are the key SQL operations I have applied:
+- **Basic Queries**: `SELECT`, `WHERE`, `ORDER BY`, `LIMIT`
+- **Advanced Aggregation**: `GROUP BY`, `HAVING`, `AVG()`, `COUNT()`, `SUM()`
+- **Joins**: `INNER JOIN`, `LEFT JOIN`, `RIGHT JOIN`, `FULL OUTER JOIN`, `SELF JOIN`
+- **Window Functions**: `ROW_NUMBER()`, `RANK()`, `LEAD()`
+- **Subqueries & CTEs**: Working with nested queries
+- **Data Transformation**: `CASE`, `TRIM()`, `CAST()`, `SUBSTRING()`
+- **Performance Optimization**: Indexing, Query Optimization
 
 ## Files Included
+- **WSDA_Music.db**: SQLite database with music-related data.
+- **.sql Files**: SQL query files demonstrating different techniques:
+  - `1_Select_Operations.sql`: Basic SELECT queries.
+  - `2_Advanced_Aggregation.sql`: Using GROUP BY, HAVING, and aggregate functions.
+  - `3_Join_Operations.sql`: Inner, outer, and self joins.
+  - `4_Time_Series_Analysis.sql`: Analyzing trends over time.
 
-- **WSDA_Music.db**: The SQLite database file containing music-related data.
-- **.sql files**: A series of SQL query files demonstrating different SQL operations. These files contain the SQL code used for various analyses and operations on the `WSDA_Music.db` database.
+## Projects/Case Studies
+### 1. **Music Sales Analysis**
+**Problem**: Identify top-selling albums over the past five years.
+**Solution**: Applied `GROUP BY` and `HAVING` to summarize album sales and identify top performers.
 
-## How to Use
+### 2. **Customer Retention Analysis**
+**Problem**: Identify users who churned based on listening behavior.
+**Solution**: Used `SUBQUERY` and `JOIN` to compare historical and recent user data.
 
-1. Clone or download this repository to your local machine.
-2. Open the **WSDA_Music.db** file with a database browser or SQLite client (e.g., [DB Browser for SQLite](https://sqlitebrowser.org/)).
-3. Execute the `.sql` files in any SQL editor or directly inside an SQLite client to see the queries in action.
-   - Each `.sql` file contains a specific SQL operation or analysis, and they are organized based on the type of operation (e.g., `add_update_delete_artist_data.sql`, `group_by_avg_spending.sql`).
+### 3. **Trend Analysis**
+**Problem**: Track seasonal trends in song popularity.
+**Solution**: Implemented window functions like `RANK()` to identify top songs per month.
 
 ## Conclusion
-
-This project showcases various SQL operations and query techniques applied to a music database. It highlights my ability to manipulate and analyze relational data using SQL.
-
----
-
-**Technologies Used:**
-- SQLite
-- SQL (Structured Query Language)
+This portfolio highlights my proficiency with SQL operations, data analysis, and optimization. It demonstrates the ability to solve business problems using SQL and provide actionable insights.
