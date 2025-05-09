@@ -1,4 +1,4 @@
-# E-commerce Data Analysis and Forecasting
+# E-commerce Price Optimization and Revenue Forecasting
 This project demonstrates a comprehensive analysis of e-commerce sales data, employing various data science techniques to gain insights into customer behavior, optimize pricing strategies, and forecast future revenue. The analysis covers data loading and cleaning, feature engineering, exploratory data analysis with outlier handling and visualization, pricing optimization using polynomial regression, and time series forecasting using the Prophet library.
 
 ## Skills Demonstrated:
