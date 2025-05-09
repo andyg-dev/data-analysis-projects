@@ -1,5 +1,12 @@
 # E-commerce Price Optimization and Revenue Forecasting
-This project demonstrates a comprehensive analysis of e-commerce sales data, employing various data science techniques to gain insights into customer behavior, optimize pricing strategies, and forecast future revenue. The analysis covers data loading and cleaning, feature engineering, exploratory data analysis with outlier handling and visualization, pricing optimization using polynomial regression, and time series forecasting using the Prophet library.
+This project demonstrates a comprehensive analysis of e-commerce sales [data](https://www.kaggle.com/datasets/carrie1/ecommerce-data), employing various data science techniques to gain insights into customer behavior, optimize pricing strategies, and forecast future revenue. The analysis covers data loading and cleaning, feature engineering, exploratory data analysis with outlier handling and visualization, pricing optimization using polynomial regression, and time series forecasting using the Prophet library.
+
+## Results from the Project:
+
+![Distribution of Unit Price and Quantity](https://github.com/andyg-dev/data-analysis-projects/blob/main/price_opti_rev_forecast/dist_unitprice_quantity.png)
+![Price Optimization](https://github.com/andyg-dev/data-analysis-projects/blob/main/price_opti_rev_forecast/price_optimization_pirce_vs_sales.png)
+![Monthly Revenue Historical](https://github.com/andyg-dev/data-analysis-projects/blob/main/price_opti_rev_forecast/monthly_rev_overtime.png)
+![Revenue Forecast](https://github.com/andyg-dev/data-analysis-projects/blob/main/price_opti_rev_forecast/forecasted_rev_12_months.png)
 
 ## Skills Demonstrated:
 - Data Loading and Cleaning: Reading data from a CSV file, handling missing values, and filtering invalid records.
