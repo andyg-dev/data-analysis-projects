@@ -1,6 +1,6 @@
 # **SQL Query Operations Portfolio**
 
-This repository showcases my SQL skills ranging from basic to more complex queries. Each query demonstrates a different SQL technique, such as filtering, aggregating, and manipulating data, as well as joining multiple tables.
+This repository showcases my SQL skills ranging from basic to more complex queries. Each query answers a different busienss question such as average spending amounts of customers in each city. 
 
 
 ### **SQL Operations Included:**
@@ -18,6 +18,13 @@ This repository showcases my SQL skills ranging from basic to more complex queri
 12. **GROUP BY**: Grouping rows that have the same values into summary rows.
 13. **AVG**: Calculating the average of a numeric column.
 14. **SUBQUERY**: Using a query within another query.
+
+
+![In and Subquery](https://github.com/andyg-dev/data-analysis-projects/blob/main/sql/in%20and%20subqueries.jpg?raw=true)
+
+![Case conditional](https://github.com/andyg-dev/data-analysis-projects/blob/main/sql/case.jpg?raw=true)
+
+![Having function](https://github.com/andyg-dev/data-analysis-projects/blob/main/sql/having.jpg?raw=true)
 
 ## Files Included
 
