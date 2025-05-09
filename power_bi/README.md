@@ -1,6 +1,14 @@
 # Power BI Sales Analysis Project - Adventure Works
 
-Welcome to my Power BI Sales Analysis project! This project showcases the various Power BI skills I have developed by analyzing sales data for **Adventure Works**, a fictional company. In this project, I demonstrate skills in **data transformation, modeling, DAX**, and **visualizations** to create an insightful dashboard using sales data from the United States and other countries.
+Welcome to my Power BI Sales Analysis project! This project showcases the various Power BI skills I have developed by analyzing sales data for **Adventure Works**. In this project, I demonstrate skills in **data transformation, modeling, DAX**, and **visualizations** to create an insightful dashboard using sales data from the United States and other countries.
+
+## Results from the Project
+
+![Report within PowerBI Service](https://github.com/andyg-dev/data-analysis-projects/blob/main/power_bi/report_within_power-bi_service.jpg)
+
+![Dashboard](https://github.com/andyg-dev/data-analysis-projects/blob/main/power_bi/line_chart_clustered_column_bar_chart_kpi_card_slicers.jpg)
+
+![Star Schema](https://github.com/andyg-dev/data-analysis-projects/blob/main/power_bi/dimensional_data_modeling_star_schema.jpg)
 
 ## Project Overview
 
