@@ -19,3 +19,4 @@ Based on the chart analysis:
 
 ## Using Excel charts for this analysis delivers a fast, effective way to translate historical data into actionable business insights.
 
+![sales chart](https://github.com/andyg-dev/data-analysis-projects/blob/main/excel_2/sales_chart.jpg)
