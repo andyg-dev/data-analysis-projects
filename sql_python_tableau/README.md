@@ -33,6 +33,8 @@ This project simulates a real-world data analytics workflow for a charter bus pl
 - **Visualization:** Tableau Online scatterplot (Total Spent vs. Avg Distance), color-coded by segment
 
 ---
+(https://github.com/andyg-dev/data-analysis-projects/blob/main/sql_python_tableau/booking_status_by_operators.jpg)
+(https://github.com/andyg-dev/data-analysis-projects/blob/main/sql_python_tableau/customer_segment.jpg)
 
 ## 🛠️ Tools & Technologies
 
@@ -57,8 +59,10 @@ This project simulates a real-world data analytics workflow for a charter bus pl
 
 ## Deliverables
 
-- `complete_analytics_project.db` — SQLite database
-- `pull_data.py` — Script to extract data and export CSVs
+- `complete_analytics_project.db` - SQLite database
+- `pull_data.py` - Script to extract data and export CSVs
+- statistical_analysis.py - Script to perform chi square and K-means
+- `create_data.py1 - Script to push data into SQL tables
 - Tableau Dashboards:
   - **Dashboard 1:** Operator-wise Booking Status with Chi-Square Result
   - **Dashboard 2:** Customer Segments (Spending vs. Distance)
