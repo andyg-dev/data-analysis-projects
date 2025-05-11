@@ -48,14 +48,14 @@ This project simulates a real-world data analytics workflow for a charter bus pl
 
 ---
 
-## 🤖 Automation
+## Automation
 
 - Python scripts generate realistic synthetic data and load it into SQLite
 - Automated SQL queries extract business metrics and export them to `.csv`
 
 ---
 
-## 📈 Deliverables
+## Deliverables
 
 - `complete_analytics_project.db` — SQLite database
 - `pull_data.py` — Script to extract data and export CSVs
@@ -65,4 +65,4 @@ This project simulates a real-world data analytics workflow for a charter bus pl
 
 ---
 
-📬 *Interested in seeing this project live or want the code? Just ask!*
+*Interested in seeing this project live or want the code? Just ask!*
