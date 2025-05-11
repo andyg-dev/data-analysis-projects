@@ -28,7 +28,7 @@ Welcome to my data analytics and machine learning portfolio! Over the past sever
 
 ## ⭐ Highlighted Projects
 
-### 1. **CharterUP Analytics: Cancellations & Customer Segmentation**
+### 1. **Tech StartUp Marketing Analytics: Cancellations & Customer Segmentation**
 - Analyzed **operational performance** and **customer behavior** for a **tech startup** using SQL queries, Python scripts, and Tableau visualizations. Applied statistical analysis (chi-square analysis and K-means clustering) to examine booking cancellations, recommending alternative investigative routes. Developed segmented strategies tailored to different customer groups to enhance service optimization and revenue growth.
 
 ### 2. **Sales Analysis - Excel**
@@ -43,10 +43,11 @@ Welcome to my data analytics and machine learning portfolio! Over the past sever
 ---
 
 ## 📈 Additional Projects (Not Detailed Here)
-- Machine learning regression model for housing price prediction  
-- ETL automation for JSON product review data  
-- Python-driven Excel reporting with custom formatting  
-- Dynamic Tableau dashboards for HR analytics  
+- Excel project addressing inventory and staffing needs for peak seasons for a zoo.
+- Multi-country sales analysis with Power BI dashboard for regional sales performance for a posible expansion 
+- SQL project that analyzises customer purcahse behavior for a music streaming platform to target personalized offers 
+- Google Looker Studio project that highlights differences in global population trends.
+- API and web scraping projects that showcase techincal skills in pulling APIs and getting information from the web. 
 
 ---
 
