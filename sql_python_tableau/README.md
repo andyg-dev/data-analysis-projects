@@ -33,8 +33,8 @@ This project simulates a real-world data analytics workflow for a charter bus pl
 - **Visualization:** Tableau Online scatterplot (Total Spent vs. Avg Distance), color-coded by segment
 
 ---
-(https://github.com/andyg-dev/data-analysis-projects/blob/main/sql_python_tableau/booking_status_by_operators.jpg)
-(https://github.com/andyg-dev/data-analysis-projects/blob/main/sql_python_tableau/customer_segment.jpg)
+!(https://github.com/andyg-dev/data-analysis-projects/blob/main/sql_python_tableau/booking_status_by_operators.jpg)
+!(https://github.com/andyg-dev/data-analysis-projects/blob/main/sql_python_tableau/customer_segment.jpg)
 
 ## 🛠️ Tools & Technologies
 
