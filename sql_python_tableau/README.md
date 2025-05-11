@@ -61,8 +61,8 @@ This project simulates a real-world data analytics workflow for a charter bus pl
 
 - `complete_analytics_project.db` - SQLite database
 - `pull_data.py` - Script to extract data and export CSVs
-- statistical_analysis.py - Script to perform chi square and K-means
-- `create_data.py1 - Script to push data into SQL tables
+- statistical_analysis.py` - Script to perform chi square and K-means
+- `create_data.py` - Script to push data into SQL tables
 - Tableau Dashboards:
   - **Dashboard 1:** Operator-wise Booking Status with Chi-Square Result
   - **Dashboard 2:** Customer Segments (Spending vs. Distance)
