@@ -29,25 +29,25 @@ Welcome to my data analytics and machine learning portfolio! Over the past sever
 ## ⭐ Highlighted Projects
 
 ### 1. **Tech StartUp Marketing Analytics: Cancellations & Customer Segmentation**
-- Analyzed **operational performance** and **customer behavior** for a **tech startup** using SQL queries, Python scripts, and Tableau visualizations. Applied statistical analysis (chi-square analysis and K-means clustering) to examine booking cancellations, recommending alternative investigative routes. Developed segmented strategies tailored to different customer groups to enhance service optimization and revenue growth.
+- Analyzed **operational performance** and **customer behavior** for a **tech startup** using SQL queries, Python scripts, and Tableau visualizations. Applied statistical analysis (chi-square analysis and K-means clustering) to examine booking cancellations, recommending alternative investigative routes. Developed segmented strategies tailored to different customer groups to enhance **service optimization** and **revenue growth**.
 
 ### 2. **Sales Analysis - Excel**
-- Leveraged PivotTables, PivotCharts, and **KPIs** to produce a dashboard for a food company that tracked revenue trends, identified high-performing regions, and optimized inventory based on top-selling products. 
+- Leveraged PivotTables, PivotCharts, and **KPIs** to produce a dashboard for a food company that tracked revenue trends, identified **high-performing regions**, and optimized inventory based on **top-selling products**. 
 
-### 3. **Sales Dashboard with Snowflake & Power BI**
+### 3. **Sentiment Analysis with Snowflake & Power BI**
 - Built an end to end **ETL pipeline** using Azure, Snowflake, and Python to extract, clean, and analyze customer feedback. It integrates AI-powered sentiment analysis via Azure AI Language to categorize feedback as positive, neutral, or negative, helping businesses assess their **customer representative performance**. The cleaned and processed data is then stored in Azure Blob Storage and loaded into Snowflake, where a structured view summarizes sentiment trends. These insights enable companies to **optimize customer service, refine training programs,** and improve overall **operational efficiency.**
 
 ### 4. **E-Commerce Price Optimization and Revenue Forecasting**
-- Used *statistical analysis* (regression and predictive modeling) for an e-commerce company to identify optimal price points as well as forecast revenue over the next 12 months, enabling data-driven decisions in **inventory planning, marketing spend, and sales strategy.**
+- Used *statistical analysis* (regression and predictive modeling) for an e-commerce company to identify **optimal price points** as well as **forecast revenue** over the next 12 months, enabling data-driven decisions in **inventory planning, marketing spend, and sales strategy.**
 
 ---
 
 ## 📈 Additional Projects (Not Detailed Here)
-- Excel project addressing inventory and staffing needs for peak seasons for a zoo.
-- Multi-country sales analysis with Power BI dashboard for regional sales performance for a posible expansion 
-- SQL project that analyzises customer purcahse behavior for a music streaming platform to target personalized offers 
+- Excel project addressing **inventory** and **staffing needs** for peak seasons for a zoo.
+- Multi-country sales analysis with Power BI dashboard for regional sales performance for a **posible expansion.** 
+- SQL project that analyzises **customer purcahse behavior** for a music streaming platform to target **personalized offers** 
 - Google Looker Studio project that highlights differences in global population trends.
-- API and web scraping projects that showcase techincal skills in pulling APIs and getting information from the web. 
+- API and **web scraping** projects that showcase techincal skills in pulling **APIs** and getting information from the web. 
 
 ---
 
