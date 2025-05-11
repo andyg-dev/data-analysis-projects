@@ -1,143 +1,57 @@
-# Data Analysis Projects Portfolio
+# Data Analytics Portfolio
 
-Welcome to my **Data Analysis Projects Portfolio**! This repository contains a collection of various data analysis projects I’ve worked on using **SQL**, **Excel**, **Power BI**, **Python**, **Google Looker Studio**, **APIs**, **Web scraping**. Each folder represents a different tool I’ve used to explore, analyze, and visualize data across various domains.
-
-## Table of Contents
-
-- [SQL Project](#sql-project)
-- [Excel Project](#excel-project)
-- [Power BI Project](#power-bi-project)
-- [Combined Excel Python Power BI Project](#combined-excel-python-powerbi-project)
-- [Jupyter Webscraping API Database Projects](#Jupyter-Webscraping-API-Database-Projects)
-- [Looker Studio Project](#looker-studio)
-
-## SQL Project
-
-In this folder, you'll find a series of SQL queries and operations I’ve implemented to analyze and manipulate data using relational databases.
-
-### Key Operations Demonstrated:
-- **SELECT**: Retrieving data from tables
-- **JOIN**: Combining data from multiple tables
-- **GROUP BY & HAVING**: Aggregating and filtering data
-- **CASE/WHERE**: Conditional statements
-- **INSERT/UPDATE/DELETE**: Modifying data in the database
-- **Subqueries**: Using nested queries for complex analysis
-- **Window Functions**: Advanced analysis on a dataset
-
-### Files in this Folder:
-- `wsd_music.db`: An SQLite database containing music-related data.
-- `.sql files`: A series of SQL query files demonstrating various operations on the `wsd_music.db` database.
-
-[Check out the SQL folder here](./sql/)
+Welcome to my data analytics and machine learning portfolio! Over the past several months, I've built **11+ end-to-end projects** that demonstrate my skills across SQL, Python, cloud platforms, BI tools, and statistical/machine learning analysis. These projects span from fundamental concepts to advanced use cases and are designed to solve real business problems.
 
 ---
 
-## Excel Project
+## 🛠️ Skills and Tools
 
-This folder contains data analysis projects using **Excel**, where I applied a range of techniques including data cleaning, pivot tables, and dashboards.
+### 📌 SQL
+- **Basics:** `SELECT`, `FROM`, `WHERE`, `GROUP BY`, `HAVING`, `JOIN`, `ORDER BY`, `LIMIT`
+- **Advanced:** `CTEs`, `WINDOW FUNCTIONS`, `INDEXING`, `SUBQUERIES`, `CASE`, `DATE FUNCTIONS`
 
-### Key Techniques Demonstrated:
-- **Data Cleaning**: Handling missing data and correcting inconsistencies.
-- **Pivot Tables & Charts**: Summarizing and visualizing data dynamically.
-- **XLOOKUP & INDEX/MATCH**: Extracting related data from multiple tables.
-- **Conditional Formatting**: Highlighting important trends and insights.
-- **Interactive Dashboards**: Creating slicers and KPIs for better visualization.
+### 📌 Python
+- **Data Analysis:** `pandas`, `numpy`, `json`, `read_csv`, Excel & CSV parsing
+- **Statistics:** Mean, Median, Mode, Min, Max, Chi-Square Tests, Regression Analysis
+- **Machine Learning:** `scikit-learn`, `Prophet`, K-Means, Revenue Forecasting, Customer Segmentation
+- **ETL:** Custom Python pipelines for ingesting and cleaning data from JSON, CSV, Excel
 
-### Files in this Folder:
-- `sales_data.xlsx`: A sample dataset used for sales analysis.
-- `dashboard.xlsx`: An interactive Excel dashboard with key performance metrics.
+### 📌 Cloud / Storage / Warehousing
+- **Azure Blob Storage**
+- **Snowflake**: SQL queries
 
-[Check out the Excel folder here](./excel/)
-
----
-
-## Power BI Project
-
-This folder features Power BI projects where I created interactive dashboards, data models, and visualizations to analyze business performance.
-
-### Key Features Demonstrated:
-- **Power Query & Data Transformation**: Importing, cleaning, and transforming data using Power Query.
-- **DAX Calculations**: Creating measures and calculated columns to analyze data.
-- **Data Modeling**: Designing star schemas, relationships, and hierarchies.
-- **Visualizations**: Building interactive dashboards with bar charts, KPIs, and slicers.
-- **Publishing**: Sharing reports via Power BI Service for collaboration.
-
-### Files in this Folder:
-- `AdventureWorks.pbix`: A Power BI file featuring sales analysis for the fictional "Adventure Works" company.
-
-[Check out the Power BI folder here](./powerbi/)
-
----
-## Combined Excel Python PowerBI Project
-
-This project analyzes productivity trends based on time-tracked data collected over 18 days in 2023. The data is recorded in small time blocks, and the goal is to clean, categorize, and visualize this data for actionable insights.
-
-### Technologies Used
-- **Python (Pandas)**: For data cleaning, transformation, and categorization.
-- **Excel (Power Query)**: For initial data transformation and cleanup.
-- **Power BI**: For creating interactive reports and dashboards.
-
-### Key Features
-- **Data Cleaning**: Cleaned 1,000 rows of data, standardized date-time formats, and depersonalized sensitive information.
-- **Activity Categorization**: Used Python scripts to categorize activities based on keywords and merged the results with the dataset.
-- **Power BI Dashboard**: Created bar charts and line graphs to track productivity trends, with custom measures and interactive filters.
-
-### Conclusion
-This project integrates Python and Power BI to provide insightful visualizations of productivity trends, helping to optimize tracking and resource allocation.
-
-## Project Objective
-
-The goal of these projects is to demonstrate my ability to analyze and visualize data using various tools and techniques. Through these projects, I have gained experience in transforming raw data into actionable insights, building reports, and making data-driven decisions.
+### 📌 BI & Dashboards
+- **Power BI:** Custom DAX Measures, Data Modeling (Star Schema), Interactive Dashboards
+- **Tableau Online:** Data storytelling, customer segmentation, operator-level reporting
 
 ---
 
-## Jupyter Webscraping API Database Projects 
+## ⭐ Highlighted Projects
 
-### Web Scraping Quotes from "Quotes to Scrape" using Python
+### 1. **CharterUP Analytics: Cancellations & Customer Segmentation**
+- Analyzed **operational performance** and **customer behavior** for a **tech startup** using SQL queries, Python scripts, and Tableau visualizations. Applied statistical analysis (chi-square analysis and K-means clustering) to examine booking cancellations, recommending alternative investigative routes. Developed segmented strategies tailored to different customer groups to enhance service optimization and revenue growth.
 
-This project demonstrates web scraping techniques using Python. The goal is to scrape quotes, authors, and associated tags from the website "Quotes to Scrape" using BeautifulSoup and Requests. The script retrieves the HTML content from the webpage, parses the quotes, authors, and tags, and then stores and prints them in a structured format.
+### 2. **Sales Analysis - Excel**
+- Leveraged PivotTables, PivotCharts, and **KPIs** to produce a dashboard for a food company that tracked revenue trends, identified high-performing regions, and optimized inventory based on top-selling products. 
 
-#### Key Features Demonstrated:
+### 3. **Sales Dashboard with Snowflake & Power BI**
+- Built an end to end **ETL pipeline** using Azure, Snowflake, and Python to extract, clean, and analyze customer feedback. It integrates AI-powered sentiment analysis via Azure AI Language to categorize feedback as positive, neutral, or negative, helping businesses assess their **customer representative performance**. The cleaned and processed data is then stored in Azure Blob Storage and loaded into Snowflake, where a structured view summarizes sentiment trends. These insights enable companies to **optimize customer service, refine training programs,** and improve overall **operational efficiency.**
 
-- Python (Requests, BeautifulSoup)
-- Scrapes quotes, authors, and tags from the website.
-- Uses requests to fetch the webpage content.
-- Parses the HTML using BeautifulSoup to extract relevant data.
-- Displays the data in a clean, readable format.
-
-### Iowa Liquor Sales Data API Project
-
-In this project, I developed a Python-based solution to interact with the Iowa Liquor Sales Data API, enabling the extraction, cleaning, and analysis of large datasets. The goal was to extract and process alcohol sales data and prepare it for business intelligence analysis.
-
-#### Key Features Demonstrated:
-
-- Python (Requests, Pandas)
-
-- Jupyter Notebooks
-
-- API integration for extracting real-time liquor sales data from the Iowa Liquor Sales API.
-
-- Data cleaning using Pandas, handling missing values and formatting key metrics.
-
-- Automates data extraction and cleaning, exporting cleaned data to a CSV file for analysis.
-
+### 4. **E-Commerce Price Optimization and Revenue Forecasting**
+- Used *statistical analysis* (regression and predictive modeling) for an e-commerce company to identify optimal price points as well as forecast revenue over the next 12 months, enabling data-driven decisions in **inventory planning, marketing spend, and sales strategy.**
 
 ---
 
-## How to Use
-
-- **Clone this repository** to your local machine using `git clone https://github.com/andyg-dev/data-analysis-projects.git`.
-- **Open files in the respective tools**:
-  - SQL files can be executed in any SQL editor (e.g., DB Browser for SQLite).
-  - Excel files can be opened with Microsoft Excel or Google Sheets.
-  - Power BI files can be opened using Power BI Desktop.
+## 📈 Additional Projects (Not Detailed Here)
+- Machine learning regression model for housing price prediction  
+- ETL automation for JSON product review data  
+- Python-driven Excel reporting with custom formatting  
+- Dynamic Tableau dashboards for HR analytics  
 
 ---
 
-## Contact
+## 💼 Let's Connect
+If you're a hiring manager or fellow data enthusiast, feel free to explore or contact me for more details or a live walkthrough of any project.
 
-Feel free to reach out if you have any questions or feedback!
-https://forms.gle/1pBdv3ZYFjBSY9N58
----
+> 📬 *Want access to the code, dashboards, or notebooks? Just ask!*
 
-Thank you for checking out my data analysis portfolio!
