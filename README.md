@@ -54,5 +54,3 @@ Welcome to my data analytics and machine learning portfolio! Over the past sever
 ## 💼 Let's Connect
 If you're a hiring manager or fellow data enthusiast, feel free to explore or contact me for more details or a live walkthrough of any project.
 
-> 📬 *Want access to the code, dashboards, or notebooks? Just ask!*
-
