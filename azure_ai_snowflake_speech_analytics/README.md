@@ -1,4 +1,4 @@
-# Azure + Snowflake ETL & Sentiment Analysis Pipeline
+# Azure, Snowflake, SQL Server ETL & AI Sentiment Analysis Pipeline
 This project demonstrates a strong understanding of **full end-to-end data pipeline**. Using Python (pandas), Azure Blob Storage, Azure SQL database, Azure Data Studio, Azure Co-Pilot, Azure AI Text Analytics and Snowflake, this project analyzes customer feedback and bins negative, neutral, positive feedback. This prcoess helps **tech startups** with insights into **customer service rep performance**.
 
 ## Pipeline Diagram
