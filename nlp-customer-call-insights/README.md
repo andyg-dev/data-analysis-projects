@@ -1,6 +1,6 @@
 # Analysis of Customer Service Call Drivers: Identifying Repeat Call Issues
 
-**Prepared For:** Leadership of Customer Operations Team of ConnectPoint Analytics
+**Prepared For:** Leadership of Customer Operations Team 
 
 **Prepared By:** Andy Green
 
