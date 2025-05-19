@@ -1,7 +1,9 @@
 # Analysis of Customer Service Call Drivers: Identifying Repeat Call Issues
 
 **Prepared For:** Leadership of Customer Operations Team of ConnectPoint Analytics
+
 **Prepared By:** Andy Green
+
 **Skills Utilized:** Azure Data Studio, SQL, Python, Azure OpenAI (ChatGPT), Azure, Natural Language Processing, Relational Databases, Azure Copilot
 
 ## Executive Summary
