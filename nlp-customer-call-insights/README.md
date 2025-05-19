@@ -35,7 +35,7 @@ My analysis highlighted the following main reasons for customers calling back ab
 
 **Frequency of Billing Issues Leading to Calls**
 
-![](nlp-customer-call-insights/chart.jpg)
+![](chart.jpg)
 
 *The chart above shows how often each of these billing problems led to customers calling us.*
 
