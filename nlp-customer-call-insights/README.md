@@ -33,7 +33,7 @@ My analysis highlighted the following main reasons for customers calling back ab
 2.  **Unresolved Promises of Credits or Refunds:** When customers were overcharged (like with the double billing), agents often promised a credit or refund. However, if these weren't applied quickly, customers had to call back to follow up.
 3.  **Surprise End of Promotions:** Customers were often caught off guard when their promotional discounts ended, causing their bills to suddenly increase. This lack of clear communication led to them contacting us for explanations.
 
-**![Insert Chart Here: Frequency of Billing Issues Leading to Calls](https://github.com/andyg-dev/data-analysis-projects/blob/main/nlp-customer-call-insights/Frequency%20of%20Billing%20Issues%20Leading%20to%20Calls.jpg)**
+![](nlp-customer-call-insights/Frequency%20of%20Billing%20Issues%20Leading%20to%20Calls.jpg)
 
 *The chart above shows how often each of these billing problems led to customers calling us.*
 
