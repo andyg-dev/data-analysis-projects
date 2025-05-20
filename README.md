@@ -20,7 +20,7 @@ Welcome to my data analytics and machine learning portfolio! Over the past sever
 ### 4. **[E-Commerce Price Optimization and Revenue Forecasting](https://github.com/andyg-dev/data-analysis-projects/tree/main/price_opti_rev_forecast)**
 - Used advanced *statistical analysis* (regression and predictive modeling) for an e-commerce company to identify **optimal price points** as well as **forecast revenue** over the next 12 months, enabling data-driven decisions in **inventory planning, marketing spend, and sales strategy.**
 
-![](https://github.com/andyg-dev/data-analysis-projects/blob/main/price_opti_rev_forecast/dist_unitprice_quantity.png)
+![Scatter plot of unit price vs. quantity](https://github.com/andyg-dev/data-analysis-projects/blob/main/price_opti_rev_forecast/dist_unitprice_quantity.png)
 
 ### 5. **{Call Center Data Analysis with Azure OpenAI/ChatGPT, Python, Sql and Azure Data Studio](https://github.com/andyg-dev/data-analysis-projects/tree/main/nlp-customer-call-insights)**
 - Analyzed customer service call data to identify the primary drivers of repeat calls within seven days, revealing a key factor impacting First-Call Resolution (FCR) and Customer Satisfaction (CSAT). Using SQL, Python, and Azure OpenAI (ChatGPT), 3 primary reasons were responsible for customers needing to call back. Recommendations were made to rectify these issues to FCR and CSAT.
