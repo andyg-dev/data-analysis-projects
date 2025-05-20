@@ -11,11 +11,15 @@ Welcome to my data analytics and machine learning portfolio! Over the past sever
 
   
 
-### 2. **[Sales Analysis - Excel](https://github.com/andyg-dev/data-analysis-projects/tree/main/excel)**
-- Leveraged PivotTables, PivotCharts, and **KPIs** to produce a dashboard for a food company that tracked revenue trends, identified **high-performing regions**, and optimized inventory based on **top-selling products**. 
+### 2. **[Sales Analysis - Excel](excel)**
+- Leveraged PivotTables, PivotCharts, and **KPIs** to produce a dashboard for a food company that tracked revenue trends, identified **high-performing regions**, and optimized inventory based on **top-selling products**.
+
+- 
 
 ### 3. **[Azure, Snowflake, SQL Server ETL & AI Sentiment Analysis Pipeline](https://github.com/andyg-dev/data-analysis-projects/tree/main/azure_ai_snowflake_speech_analytics)**
 - Built an end to end **ETL pipeline** using Azure, Snowflake, and Python to extract, clean, and analyze customer feedback. It integrates AI-powered sentiment analysis via Azure AI Language to categorize feedback as positive, neutral, or negative, helping businesses assess their **customer representative performance**. The cleaned and processed data is then stored in Azure Blob Storage and loaded into Snowflake, where a structured view summarizes sentiment trends. Azure SQL Server and Data Studio were also used as an alternative way to query and view. These insights enable companies to **optimize customer service, refine training programs,** and improve overall **operational efficiency.**
+
+![](azure_ai_snowflake_speech_analytics/pipeline_diagram.jpg)
 
 ### 4. **[E-Commerce Price Optimization and Revenue Forecasting](https://github.com/andyg-dev/data-analysis-projects/tree/main/price_opti_rev_forecast)**
 - Used advanced *statistical analysis* (regression and predictive modeling) for an e-commerce company to identify **optimal price points** as well as **forecast revenue** over the next 12 months, enabling data-driven decisions in **inventory planning, marketing spend, and sales strategy.**
