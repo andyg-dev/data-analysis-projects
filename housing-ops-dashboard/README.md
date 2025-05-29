@@ -1,3 +1,5 @@
+![](dashboard.jpg)
+
 # Manufactured Housing Operations Dashboard
 
 A dynamic, interactive dashboard designed to enhance operational decision-making for manufactured housing portfolios. This project demonstrates advanced analytical capabilities, automation skills, and strategic thinking in delivering actionable business insights.
