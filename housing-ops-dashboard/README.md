@@ -6,7 +6,7 @@ A dynamic, interactive dashboard designed to enhance operational decision-making
 
 ## Overview
 
-This Operations Dashboard(https://docs.google.com/spreadsheets/d/1c7ozxyMKahhRtJpnHKg1a9-hMj_8F7kl7yhyymyjZeE/edit?usp=sharing) provides senior management with instant visibility into key performance indicators (KPIs), such as revenue, net operating income (NOI), occupancy rates, and utility cost recovery. The dashboard streamlines complex, fragmented data from multiple sources into intuitive visualizations and scenarios, facilitating swift, data-driven decisions.
+This [Operations Dashboard](https://docs.google.com/spreadsheets/d/1c7ozxyMKahhRtJpnHKg1a9-hMj_8F7kl7yhyymyjZeE/edit?usp=sharing) provides senior management with instant visibility into key performance indicators (KPIs), such as revenue, net operating income (NOI), occupancy rates, and utility cost recovery. The dashboard streamlines complex, fragmented data from multiple sources into intuitive visualizations and scenarios, facilitating swift, data-driven decisions.
 
 ## Key Features
 
